@@ -1,0 +1,49 @@
+
+     .previewModal{
+          font-family: "Lucida Console", "Courier New", monospace;
+     }
+     .header{
+          padding-left:20px;
+     }
+     .head_col{
+          text-align:center;
+     }
+     .icon_quo{
+          padding-left:10px;
+          padding-top:10px;
+          width:200px;
+          height:auto;
+     }
+     .companys{
+          font-size:15px;
+          font-weight:bold;
+     }
+     .areas{
+          font-size:8px;
+    
+     }
+     .btnact{
+          padding:5px;
+     }
+     .fharga{
+          text-align:right;
+          padding-right:5px;
+     }
+     .funit{
+          text-align:center;
+     }
+     .furut{
+          text-align:center;
+     }
+     .infostatus{
+          font-size:12px;
+     }
+
+     .injarak{
+          width:50px;
+     }
+
+     .alamat{
+          font-size: 8px;
+     }
+
